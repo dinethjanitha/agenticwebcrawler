@@ -37,7 +37,7 @@ pyvenv.cfg
 .idea/
 *.swp
 *.swo
-*.ipynb
+
 
 # Scrapy
 .scrapy/
